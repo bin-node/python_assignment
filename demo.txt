@@ -1,0 +1,8 @@
+Colab is used extensively in the machine learning community with applications including:
+- Getting started with TensorFlow
+- Developing and training neural networks
+- Experimenting with TPUs
+- Disseminating AI research
+- Creating tutorials
+
+To see sample Colab notebooks that demonstrate machine learning applications, see the <a href="#machine-learning-examples">machine learning examples</a> below.
